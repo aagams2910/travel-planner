@@ -22,7 +22,7 @@ An AI-powered travel planner application that assists travelers in creating pers
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/aagams2910/travel-planner.git
    cd travel-planner
    ```
 
